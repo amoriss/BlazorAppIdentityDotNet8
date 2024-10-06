@@ -3,24 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE32287F-A2AB-4945-BC7C-4FF37338CBF8}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|c:\\users\\amori\\original\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DE32287F-A2AB-4945-BC7C-4FF37338CBF8}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DE32287F-A2AB-4945-BC7C-4FF37338CBF8}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|c:\\users\\amori\\original\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE32287F-A2AB-4945-BC7C-4FF37338CBF8}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE32287F-A2AB-4945-BC7C-4FF37338CBF8}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|c:\\users\\amori\\original\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE32287F-A2AB-4945-BC7C-4FF37338CBF8}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE32287F-A2AB-4945-BC7C-4FF37338CBF8}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|c:\\users\\amori\\original\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE32287F-A2AB-4945-BC7C-4FF37338CBF8}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE32287F-A2AB-4945-BC7C-4FF37338CBF8}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|c:\\users\\amori\\original\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE32287F-A2AB-4945-BC7C-4FF37338CBF8}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C61C37C-D415-4DF6-9E00-52E3DBE2E462}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|c:\\users\\amori\\original\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C61C37C-D415-4DF6-9E00-52E3DBE2E462}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE32287F-A2AB-4945-BC7C-4FF37338CBF8}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|c:\\users\\amori\\original\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\components\\account\\persistingrevalidatingauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE32287F-A2AB-4945-BC7C-4FF37338CBF8}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8\\components\\account\\persistingrevalidatingauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C61C37C-D415-4DF6-9E00-52E3DBE2E462}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|c:\\users\\amori\\original\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C61C37C-D415-4DF6-9E00-52E3DBE2E462}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3C61C37C-D415-4DF6-9E00-52E3DBE2E462}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|c:\\users\\amori\\original\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\persistentauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C61C37C-D415-4DF6-9E00-52E3DBE2E462}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\persistentauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C61C37C-D415-4DF6-9E00-52E3DBE2E462}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|c:\\users\\amori\\original\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C61C37C-D415-4DF6-9E00-52E3DBE2E462}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C61C37C-D415-4DF6-9E00-52E3DBE2E462}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|c:\\users\\amori\\original\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3C61C37C-D415-4DF6-9E00-52E3DBE2E462}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE32287F-A2AB-4945-BC7C-4FF37338CBF8}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|c:\\users\\amori\\original\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE32287F-A2AB-4945-BC7C-4FF37338CBF8}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C61C37C-D415-4DF6-9E00-52E3DBE2E462}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|c:\\users\\amori\\original\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C61C37C-D415-4DF6-9E00-52E3DBE2E462}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE32287F-A2AB-4945-BC7C-4FF37338CBF8}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|c:\\users\\amori\\original\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE32287F-A2AB-4945-BC7C-4FF37338CBF8}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C61C37C-D415-4DF6-9E00-52E3DBE2E462}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|c:\\users\\amori\\original\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C61C37C-D415-4DF6-9E00-52E3DBE2E462}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\BlazorAppIdentityDotNet8.Client.csproj|solutionrelative:blazorappidentitydotnet8\\blazorappidentitydotnet8.client\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE32287F-A2AB-4945-BC7C-4FF37338CBF8}|BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.csproj|c:\\users\\amori\\original\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\blazorappidentitydotnet8\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,67 +66,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\Pages\\Register.razor",
+              "ToolTip": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\Pages\\Register.razor",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\Pages\\Register.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T20:41:13.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\Pages\\Login.razor",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\Pages\\Login.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T20:40:31.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersistingRevalidatingAuthenticationStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\PersistingRevalidatingAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\PersistingRevalidatingAuthenticationStateProvider.cs",
+              "ToolTip": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\PersistingRevalidatingAuthenticationStateProvider.cs",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Components\\Account\\PersistingRevalidatingAuthenticationStateProvider.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAjwA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:36:54.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:32:42.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersistentAuthenticationStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\PersistentAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\PersistentAuthenticationStateProvider.cs",
+              "ToolTip": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\PersistentAuthenticationStateProvider.cs",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\PersistentAuthenticationStateProvider.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:34:56.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T20:36:32.221Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\appsettings.json",
-              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\appsettings.json",
-              "ToolTip": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\appsettings.json",
-              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-04T20:55:03.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Program.cs",
               "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Program.cs",
               "ToolTip": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Program.cs",
               "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T20:54:37.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Program.cs",
-              "ToolTip": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Program.cs",
-              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Program.cs",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T20:54:27.761Z",
+              "WhenOpened": "2024-10-06T20:33:11.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RedirectToLogin.razor",
-              "DocumentMoniker": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\RedirectToLogin.razor",
-              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\RedirectToLogin.razor",
-              "ToolTip": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\RedirectToLogin.razor",
-              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\RedirectToLogin.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T20:54:02.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Auth.razor",
               "DocumentMoniker": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Pages\\Auth.razor",
               "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Pages\\Auth.razor",
@@ -111,7 +191,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\appsettings.json",
+              "ToolTip": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\appsettings.json",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T20:55:03.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Program.cs",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T20:54:27.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RedirectToLogin.razor",
+              "DocumentMoniker": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\RedirectToLogin.razor",
+              "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\RedirectToLogin.razor",
+              "ToolTip": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\RedirectToLogin.razor",
+              "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8.Client\\RedirectToLogin.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T20:54:02.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "00000000000000_CreateIdentitySchema.cs",
               "DocumentMoniker": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
               "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
@@ -124,13 +243,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ToolTip": "C:\\Users\\amori\\Original\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "BlazorAppIdentityDotNet8\\BlazorAppIdentityDotNet8\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAApAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T20:52:06.454Z",
               "EditorCaption": ""
